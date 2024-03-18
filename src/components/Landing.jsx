@@ -6,7 +6,7 @@ function Landing() {
   return (
     <div className='flex flex-col items-center justify-center w-screen h-screen bg-gradient-to-br from-blue-500 bg-fuchsia-200'>
         <h1 className='mb-8 text-4xl font-bold text-white'>
-            Welcome to Week 7 Assignments
+            React Basic Projects
         </h1>
         <div className='flex flex-wrap gap-4'>
             {Links.map((val, i)=>{
